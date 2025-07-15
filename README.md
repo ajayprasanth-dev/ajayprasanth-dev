@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Ajay Prasanth</h1>
+<h1 align="center">Hi👋, I'm Ajayprasanth</h1>
 <h3 align="center">Insight Architect | Designing Analytics that Drive Strategic Impact</h3>
 
 ---
