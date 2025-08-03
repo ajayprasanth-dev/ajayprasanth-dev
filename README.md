@@ -9,10 +9,10 @@
 
 ## 🚀 What I Bring to the Table
 
-I don’t just build dashboards — I design intelligent decision systems.  
+I don’t just build dashboards I design intelligent decision systems.  
 With a sharp eye for strategy and simplicity, I transform raw data into insights that drive action.  
 My focus isn’t on surface-level visuals but on solving real-world problems through analytics that guide decisions and create measurable impact.  
-I believe in aligning data storytelling with strategic goals — delivering clarity, not clutter.
+I believe in aligning data storytelling with strategic goals delivering clarity, not clutter.
 
 ---
 
